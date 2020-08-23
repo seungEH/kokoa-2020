@@ -73,3 +73,13 @@
 .nav__btn:last-child {
     animation-delay: 0.3s;
 }
+
+.nav__check__morescreen-header {
+    width: 5px;
+    height: 5px;
+    background-color: tomato;
+    border-radius: 2.5px;
+    position: absolute;
+    left: 145px;
+    bottom: 25px;
+}
